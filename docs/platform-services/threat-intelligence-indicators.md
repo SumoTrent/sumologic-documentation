@@ -85,7 +85,7 @@ Use the **Threat Intelligence** tab to add and manage threat intelligence indica
 
 :::note
 * The "CrowdStrike provided by Sumo Logic (s_CrowdStrike)" source is a default source and cannot be changed or deleted. When performing searches against this source, use "s_CrowdStrike" as the source name.
-* The default storage limit is 5 million total indicators (not including any indicators provided by Sumo Logic such as the s_CrowdStrike source).
+* The default storage limit is 10 million total indicators (not including any indicators provided by Sumo Logic such as the s_CrowdStrike source).
 :::
 
 ### Add indicators in the Threat Intelligence tab
