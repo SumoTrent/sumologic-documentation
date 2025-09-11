@@ -179,6 +179,9 @@ Columns for the following attributes are required in the upload file:
           * `installation`. Install malware and other artifacts onto the target network to take control of its systems and exfiltrate valuable data.
           * `command-and-control`. Communication with the installed malware.
           * `actions-on-objectives`. Carrying out cyberattack objectives.
+:::note
+There are 10 required fields. If any of the required fields are empty, you must include a comma for that space as shown in the CSV Example File.
+:::
 
 ## STIX 2.x JSON format
 
